@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "fnd",
-      "source": ".",
+      "source": "./plugin",
       "description": "22 leadership skills based on 9 legendary founders from David Senra's Founders Podcast"
     }
   ]
