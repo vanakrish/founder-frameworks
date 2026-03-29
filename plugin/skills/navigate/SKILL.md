@@ -1,5 +1,5 @@
 ---
-name: navigate
+name: founder-frameworks:navigate
 description: Find the right Founders framework for your leadership challenge
 argument-hint: "[describe your challenge or decision]"
 ---

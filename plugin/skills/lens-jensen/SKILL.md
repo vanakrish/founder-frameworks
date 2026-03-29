@@ -1,5 +1,5 @@
 ---
-name: lens-jensen
+name: founder-frameworks:lens-jensen
 description: Think through any problem the way Jensen Huang would
 argument-hint: "[describe your situation or decision]"
 ---

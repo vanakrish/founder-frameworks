@@ -1,5 +1,5 @@
 ---
-name: think-contrarian
+name: founder-frameworks:think-contrarian
 description: Go against consensus using wisdom from Ellison, Bezos, Mateschitz, and Dyson
 argument-hint: "[your unconventional bet or contrarian thesis]"
 ---

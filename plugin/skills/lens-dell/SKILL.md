@@ -1,5 +1,5 @@
 ---
-name: lens-dell
+name: founder-frameworks:lens-dell
 description: Think through any problem the way Michael Dell would
 argument-hint: "[describe your situation or decision]"
 ---

@@ -1,5 +1,5 @@
 ---
-name: lens-jobs
+name: founder-frameworks:lens-jobs
 description: Think through any problem the way Steve Jobs would
 argument-hint: "[describe your situation or decision]"
 ---

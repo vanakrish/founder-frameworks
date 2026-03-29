@@ -1,5 +1,5 @@
 ---
-name: think-hiring
+name: founder-frameworks:think-hiring
 description: Build teams using hiring wisdom from Jobs, Gates, Jensen, Dell, and Dyson
 argument-hint: "[your hiring decision, team challenge, or org question]"
 ---

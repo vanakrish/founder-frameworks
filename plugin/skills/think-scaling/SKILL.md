@@ -1,5 +1,5 @@
 ---
-name: think-scaling
+name: founder-frameworks:think-scaling
 description: Scale your organization without losing culture using wisdom from Jensen, Gates, Dell, and Bezos
 argument-hint: "[your scaling challenge or org design question]"
 ---

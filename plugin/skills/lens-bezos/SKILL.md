@@ -1,5 +1,5 @@
 ---
-name: lens-bezos
+name: founder-frameworks:lens-bezos
 description: Think through any problem the way Jeff Bezos would
 argument-hint: "[describe your situation or decision]"
 ---

@@ -1,5 +1,5 @@
 ---
-name: lens-gates
+name: founder-frameworks:lens-gates
 description: Think through any problem the way Bill Gates would
 argument-hint: "[describe your situation or decision]"
 ---

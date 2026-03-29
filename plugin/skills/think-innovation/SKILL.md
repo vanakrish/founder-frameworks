@@ -1,5 +1,5 @@
 ---
-name: think-innovation
+name: founder-frameworks:think-innovation
 description: Approach R&D and innovation using frameworks from Dyson, Musk, Bezos, and Dell
 argument-hint: "[your innovation challenge or R&D question]"
 ---

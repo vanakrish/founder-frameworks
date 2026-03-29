@@ -1,5 +1,5 @@
 ---
-name: think-storytelling
+name: founder-frameworks:think-storytelling
 description: Build brand narrative and storytelling using wisdom from Mateschitz, Jobs, and Ellison
 argument-hint: "[your brand, product, or narrative challenge]"
 ---

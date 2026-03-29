@@ -1,5 +1,5 @@
 ---
-name: lens-ellison
+name: founder-frameworks:lens-ellison
 description: Think through any problem the way Larry Ellison would
 argument-hint: "[describe your situation or decision]"
 ---

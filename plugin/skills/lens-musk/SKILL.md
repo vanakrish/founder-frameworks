@@ -1,5 +1,5 @@
 ---
-name: lens-musk
+name: founder-frameworks:lens-musk
 description: Think through any problem the way Elon Musk would
 argument-hint: "[describe your situation or decision]"
 ---

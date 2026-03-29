@@ -1,5 +1,5 @@
 ---
-name: think-focus
+name: founder-frameworks:think-focus
 description: Master focus and prioritization using wisdom from Jobs, Gates, Jensen, and Musk
 argument-hint: "[what you're struggling to focus on or prioritize]"
 ---

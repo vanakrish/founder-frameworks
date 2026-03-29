@@ -1,5 +1,5 @@
 ---
-name: think-capital
+name: founder-frameworks:think-capital
 description: Approach financial strategy and capital using wisdom from Dell, Gates, Mateschitz, and Bezos
 argument-hint: "[your funding, pricing, or financial strategy question]"
 ---

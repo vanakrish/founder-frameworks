@@ -1,5 +1,5 @@
 ---
-name: lens-redbull
+name: founder-frameworks:lens-redbull
 description: Think through any problem the way Red Bull's Dietrich Mateschitz would
 argument-hint: "[describe your situation or decision]"
 ---

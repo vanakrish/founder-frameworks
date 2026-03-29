@@ -1,5 +1,5 @@
 ---
-name: think-product
+name: founder-frameworks:think-product
 description: Make product decisions using wisdom from Jobs, Dyson, Musk, and Bezos
 argument-hint: "[your product decision or challenge]"
 ---

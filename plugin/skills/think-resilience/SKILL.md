@@ -1,5 +1,5 @@
 ---
-name: think-resilience
+name: founder-frameworks:think-resilience
 description: Push through failure, pain, and rejection using wisdom from Dyson, Musk, Jobs, and Dell
 argument-hint: "[what you're struggling with or where you feel stuck]"
 ---

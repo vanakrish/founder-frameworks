@@ -1,5 +1,5 @@
 ---
-name: think-competition
+name: founder-frameworks:think-competition
 description: Develop competitive strategy using wisdom from Gates, Ellison, Jensen, and Mateschitz
 argument-hint: "[your competitive situation or rival you're facing]"
 ---

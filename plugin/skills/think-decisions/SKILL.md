@@ -1,5 +1,5 @@
 ---
-name: think-decisions
+name: founder-frameworks:think-decisions
 description: Make high-stakes decisions using frameworks from Bezos, Musk, Ellison, and Gates
 argument-hint: "[your decision or dilemma]"
 ---

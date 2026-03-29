@@ -1,5 +1,5 @@
 ---
-name: think-customer
+name: founder-frameworks:think-customer
 description: Get closer to customers using wisdom from Dell, Bezos, Dyson, and Jobs
 argument-hint: "[your customer insight or feedback challenge]"
 ---
