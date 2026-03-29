@@ -1,0 +1,14 @@
+{
+  "name": "founder-frameworks",
+  "owner": {
+    "name": "Krishna Veera Vanamali Y",
+    "url": "https://whyvanamali.com"
+  },
+  "plugins": [
+    {
+      "name": "fnd",
+      "source": ".",
+      "description": "22 leadership skills based on 9 legendary founders from David Senra's Founders Podcast"
+    }
+  ]
+}

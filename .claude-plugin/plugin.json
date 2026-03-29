@@ -1,0 +1,25 @@
+{
+  "name": "fnd",
+  "version": "1.0.0",
+  "description": "Think like legendary founders — 22 interactive leadership skills distilled from David Senra's Founders Podcast, covering 9 iconic founders: Jobs, Musk, Gates, Bezos, Jensen, Ellison, Dell, Dyson, and Mateschitz.",
+  "author": {
+    "name": "Krishna Veera Vanamali Y",
+    "url": "https://whyvanamali.com"
+  },
+  "homepage": "https://github.com/vanakrish/founder-frameworks",
+  "repository": "https://github.com/vanakrish/founder-frameworks",
+  "license": "MIT",
+  "keywords": [
+    "founders",
+    "leadership",
+    "management",
+    "decision-making",
+    "mental-models",
+    "steve-jobs",
+    "elon-musk",
+    "jeff-bezos",
+    "bill-gates",
+    "jensen-huang"
+  ],
+  "skills": "./skills/"
+}

@@ -1,0 +1,18 @@
+# Source transcripts (not distributed)
+transcripts/
+
+# Local Claude Code config
+.claude/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
