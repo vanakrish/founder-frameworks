@@ -1,5 +1,5 @@
 ---
-name: fnd:think-focus
+name: think-focus
 description: Master focus and prioritization using wisdom from Jobs, Gates, Jensen, and Musk
 argument-hint: "[what you're struggling to focus on or prioritize]"
 ---
@@ -70,7 +70,7 @@ Gates and Musk are "do one thing to exhaustion" people. Jensen is "clear priorit
 
 ## See Also
 
-- /fnd:think-decisions
-- /fnd:think-product
-- /fnd:lens-jobs
-- /fnd:lens-jensen
+- /founder-frameworks:think-decisions
+- /founder-frameworks:think-product
+- /founder-frameworks:lens-jobs
+- /founder-frameworks:lens-jensen

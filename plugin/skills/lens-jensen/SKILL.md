@@ -1,5 +1,5 @@
 ---
-name: fnd:lens-jensen
+name: lens-jensen
 description: Think through any problem the way Jensen Huang would
 argument-hint: "[describe your situation or decision]"
 ---

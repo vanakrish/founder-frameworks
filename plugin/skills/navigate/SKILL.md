@@ -1,5 +1,5 @@
 ---
-name: fnd:navigate
+name: navigate
 description: Find the right Founders framework for your leadership challenge
 argument-hint: "[describe your challenge or decision]"
 ---
@@ -41,45 +41,45 @@ Ask: **Do you want cross-founder wisdom on this topic, or do you want to think t
 
 | Challenge Area | Recommended Skill |
 |---|---|
-| Product quality, design, innovation | `/fnd:think-product` or `/fnd:think-innovation` |
-| Hiring, team building, org structure | `/fnd:think-hiring` or `/fnd:think-scaling` |
-| High-stakes decision under uncertainty | `/fnd:think-decisions` |
-| Competitive strategy or positioning | `/fnd:think-competition` |
-| Focus, prioritization, saying no | `/fnd:think-focus` |
-| Storytelling, brand, narrative | `/fnd:think-storytelling` |
-| Scaling without losing culture | `/fnd:think-scaling` |
-| Failure, resilience, setbacks | `/fnd:think-resilience` |
-| Customer closeness | `/fnd:think-customer` |
-| Contrarian bet, going against consensus | `/fnd:think-contrarian` |
-| Financial strategy, capital efficiency | `/fnd:think-capital` |
+| Product quality, design, innovation | `/founder-frameworks:think-product` or `/founder-frameworks:think-innovation` |
+| Hiring, team building, org structure | `/founder-frameworks:think-hiring` or `/founder-frameworks:think-scaling` |
+| High-stakes decision under uncertainty | `/founder-frameworks:think-decisions` |
+| Competitive strategy or positioning | `/founder-frameworks:think-competition` |
+| Focus, prioritization, saying no | `/founder-frameworks:think-focus` |
+| Storytelling, brand, narrative | `/founder-frameworks:think-storytelling` |
+| Scaling without losing culture | `/founder-frameworks:think-scaling` |
+| Failure, resilience, setbacks | `/founder-frameworks:think-resilience` |
+| Customer closeness | `/founder-frameworks:think-customer` |
+| Contrarian bet, going against consensus | `/founder-frameworks:think-contrarian` |
+| Financial strategy, capital efficiency | `/founder-frameworks:think-capital` |
 
 ### Founder Lens Routing (single-founder perspective):
 
 | Skill | Best For |
 |---|---|
-| `/fnd:lens-jobs` | Vision, design, intuition, saying no |
-| `/fnd:lens-musk` | First principles, speed, manufacturing, urgency |
-| `/fnd:lens-gates` | Fanatical focus, competitive analysis, conflict |
-| `/fnd:lens-bezos` | Long-term thinking, curiosity, infrastructure |
-| `/fnd:lens-jensen` | Paranoia, teaching, market creation, craft |
-| `/fnd:lens-ellison` | Contrarian conviction, narrative, simplicity |
-| `/fnd:lens-dell` | Direct model, capital efficiency, customer intimacy |
-| `/fnd:lens-dyson` | Stubbornness, iteration, craftsmanship, pain |
-| `/fnd:lens-redbull` | Storytelling, category creation, media-as-marketing |
+| `/founder-frameworks:lens-jobs` | Vision, design, intuition, saying no |
+| `/founder-frameworks:lens-musk` | First principles, speed, manufacturing, urgency |
+| `/founder-frameworks:lens-gates` | Fanatical focus, competitive analysis, conflict |
+| `/founder-frameworks:lens-bezos` | Long-term thinking, curiosity, infrastructure |
+| `/founder-frameworks:lens-jensen` | Paranoia, teaching, market creation, craft |
+| `/founder-frameworks:lens-ellison` | Contrarian conviction, narrative, simplicity |
+| `/founder-frameworks:lens-dell` | Direct model, capital efficiency, customer intimacy |
+| `/founder-frameworks:lens-dyson` | Stubbornness, iteration, craftsmanship, pain |
+| `/founder-frameworks:lens-redbull` | Storytelling, category creation, media-as-marketing |
 
 ### Not Sure? Use This Table:
 
 | Your Vibe | Try This Lens |
 |---|---|
-| "I need to simplify and focus" | `/fnd:lens-jobs` |
-| "I need to move faster" | `/fnd:lens-musk` |
-| "I need to outcompete someone" | `/fnd:lens-gates` |
-| "I need to think longer-term" | `/fnd:lens-bezos` |
-| "I need to push my team harder" | `/fnd:lens-jensen` |
-| "I want to go against the grain" | `/fnd:lens-ellison` |
-| "I need capital efficiency" | `/fnd:lens-dell` |
-| "I need to persevere through setbacks" | `/fnd:lens-dyson` |
-| "I need to build a brand/story" | `/fnd:lens-redbull` |
+| "I need to simplify and focus" | `/founder-frameworks:lens-jobs` |
+| "I need to move faster" | `/founder-frameworks:lens-musk` |
+| "I need to outcompete someone" | `/founder-frameworks:lens-gates` |
+| "I need to think longer-term" | `/founder-frameworks:lens-bezos` |
+| "I need to push my team harder" | `/founder-frameworks:lens-jensen` |
+| "I want to go against the grain" | `/founder-frameworks:lens-ellison` |
+| "I need capital efficiency" | `/founder-frameworks:lens-dell` |
+| "I need to persevere through setbacks" | `/founder-frameworks:lens-dyson` |
+| "I need to build a brand/story" | `/founder-frameworks:lens-redbull` |
 
 ## Step 4: Recommend
 
@@ -87,8 +87,8 @@ Recommend 1-2 skills with a one-line explanation of why each fits their challeng
 
 Format your recommendation like:
 
-**Primary:** `/fnd:think-product` — Cross-founder wisdom on product quality from Jobs, Dyson, Musk, and Bezos
+**Primary:** `/founder-frameworks:think-product` — Cross-founder wisdom on product quality from Jobs, Dyson, Musk, and Bezos
 
-**Also consider:** `/fnd:lens-dyson` — If you want to go deep on relentless iteration and craftsmanship
+**Also consider:** `/founder-frameworks:lens-dyson` — If you want to go deep on relentless iteration and craftsmanship
 
 Then tell the user they can invoke the skill directly.

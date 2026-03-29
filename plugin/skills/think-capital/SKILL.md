@@ -1,5 +1,5 @@
 ---
-name: fnd:think-capital
+name: think-capital
 description: Approach financial strategy and capital using wisdom from Dell, Gates, Mateschitz, and Bezos
 argument-hint: "[your funding, pricing, or financial strategy question]"
 ---
@@ -57,4 +57,4 @@ Given the user's input: $ARGUMENTS
 5. **Output**: Financial strategy recommendation + specific founder quotes + honest tradeoffs between capital efficiency and speed
 
 ## See Also
-- /fnd:think-decisions
+- /founder-frameworks:think-decisions

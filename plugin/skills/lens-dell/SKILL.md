@@ -1,5 +1,5 @@
 ---
-name: fnd:lens-dell
+name: lens-dell
 description: Think through any problem the way Michael Dell would
 argument-hint: "[describe your situation or decision]"
 ---

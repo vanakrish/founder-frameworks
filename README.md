@@ -31,15 +31,15 @@ Requires [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (Anthropi
 **Step 2** — Install the plugin:
 
 ```
-/plugin install fnd@vanakrish-founder-frameworks
+/plugin install founder-frameworks@vanakrish-founder-frameworks
 ```
 
-That's it. All 22 skills are now available as `/fnd:*` commands in any project.
+That's it. All 22 skills are now available as `/founder-frameworks:*` commands in any project.
 
 ### Verify Installation
 
 ```
-/fnd:navigate
+/founder-frameworks:navigate
 ```
 
 This will route you to the right skill based on your challenge.
@@ -49,7 +49,7 @@ This will route you to the right skill based on your challenge.
 ### Option A: Not sure where to start?
 
 ```
-/fnd:navigate
+/founder-frameworks:navigate
 ```
 
 The navigator asks about your challenge and recommends the best skill(s).
@@ -59,15 +59,15 @@ The navigator asks about your challenge and recommends the best skill(s).
 Apply one founder's complete philosophy to your problem:
 
 ```
-/fnd:lens-jobs I have 12 product SKUs and none are winning. What should I do?
+/founder-frameworks:lens-jobs I have 12 product SKUs and none are winning. What should I do?
 ```
 
 ```
-/fnd:lens-bezos Our SaaS is growing 20% but we're burning cash and the board wants profitability
+/founder-frameworks:lens-bezos Our SaaS is growing 20% but we're burning cash and the board wants profitability
 ```
 
 ```
-/fnd:lens-musk We need to cut our production cost by 40% or we're dead
+/founder-frameworks:lens-musk We need to cut our production cost by 40% or we're dead
 ```
 
 ### Option C: Pick a topic
@@ -75,15 +75,15 @@ Apply one founder's complete philosophy to your problem:
 Get cross-founder wisdom on a specific decision context:
 
 ```
-/fnd:think-hiring I need to hire my first VP of Engineering
+/founder-frameworks:think-hiring I need to hire my first VP of Engineering
 ```
 
 ```
-/fnd:think-competition A well-funded competitor just entered our market
+/founder-frameworks:think-competition A well-funded competitor just entered our market
 ```
 
 ```
-/fnd:think-focus I have 6 initiatives running and none are getting enough attention
+/founder-frameworks:think-focus I have 6 initiatives running and none are getting enough attention
 ```
 
 ## All 22 Skills
@@ -92,52 +92,52 @@ Get cross-founder wisdom on a specific decision context:
 
 | Skill | Founder | Best for |
 |-------|---------|----------|
-| `/fnd:lens-jobs` | Steve Jobs | Vision, design, intuition, saying no |
-| `/fnd:lens-musk` | Elon Musk | First principles, speed, manufacturing, urgency |
-| `/fnd:lens-gates` | Bill Gates | Fanatical focus, competitive analysis, conflict |
-| `/fnd:lens-bezos` | Jeff Bezos | Long-term thinking, curiosity, infrastructure |
-| `/fnd:lens-jensen` | Jensen Huang | Paranoia, teaching, market creation, craft |
-| `/fnd:lens-ellison` | Larry Ellison | Contrarian conviction, narrative, simplicity |
-| `/fnd:lens-dell` | Michael Dell | Direct model, capital efficiency, customer intimacy |
-| `/fnd:lens-dyson` | James Dyson | Stubbornness, iteration, craftsmanship, pain |
-| `/fnd:lens-redbull` | Dietrich Mateschitz | Storytelling, category creation, media-as-marketing |
+| `/founder-frameworks:lens-jobs` | Steve Jobs | Vision, design, intuition, saying no |
+| `/founder-frameworks:lens-musk` | Elon Musk | First principles, speed, manufacturing, urgency |
+| `/founder-frameworks:lens-gates` | Bill Gates | Fanatical focus, competitive analysis, conflict |
+| `/founder-frameworks:lens-bezos` | Jeff Bezos | Long-term thinking, curiosity, infrastructure |
+| `/founder-frameworks:lens-jensen` | Jensen Huang | Paranoia, teaching, market creation, craft |
+| `/founder-frameworks:lens-ellison` | Larry Ellison | Contrarian conviction, narrative, simplicity |
+| `/founder-frameworks:lens-dell` | Michael Dell | Direct model, capital efficiency, customer intimacy |
+| `/founder-frameworks:lens-dyson` | James Dyson | Stubbornness, iteration, craftsmanship, pain |
+| `/founder-frameworks:lens-redbull` | Dietrich Mateschitz | Storytelling, category creation, media-as-marketing |
 
 ### Topic Skills — Cross-founder wisdom by decision context
 
 | Skill | What it does | Draws from |
 |-------|-------------|-----------|
-| `/fnd:think-product` | Product quality, design, and innovation | Jobs, Dyson, Musk, Bezos |
-| `/fnd:think-hiring` | Hiring, team building, and org structure | Jobs, Gates, Jensen, Dell, Dyson |
-| `/fnd:think-decisions` | High-stakes decisions under uncertainty | Bezos, Musk, Ellison, Gates |
-| `/fnd:think-competition` | Competitive strategy and positioning | Gates, Ellison, Jensen, Mateschitz |
-| `/fnd:think-focus` | Prioritization and saying no | Jobs, Gates, Jensen, Musk |
-| `/fnd:think-innovation` | R&D, prototyping, and iteration | Dyson, Musk, Bezos, Dell |
-| `/fnd:think-storytelling` | Brand narrative and content-as-marketing | Mateschitz, Jobs, Ellison |
-| `/fnd:think-scaling` | Growing without losing culture | Jensen, Gates, Dell, Bezos |
-| `/fnd:think-resilience` | Pushing through failure and setbacks | Dyson, Musk, Jobs, Dell |
-| `/fnd:think-customer` | Getting closer to customers | Dell, Bezos, Dyson, Jobs |
-| `/fnd:think-contrarian` | Going against consensus | Ellison, Bezos, Mateschitz, Dyson |
-| `/fnd:think-capital` | Financial strategy and capital efficiency | Dell, Gates, Mateschitz, Bezos |
+| `/founder-frameworks:think-product` | Product quality, design, and innovation | Jobs, Dyson, Musk, Bezos |
+| `/founder-frameworks:think-hiring` | Hiring, team building, and org structure | Jobs, Gates, Jensen, Dell, Dyson |
+| `/founder-frameworks:think-decisions` | High-stakes decisions under uncertainty | Bezos, Musk, Ellison, Gates |
+| `/founder-frameworks:think-competition` | Competitive strategy and positioning | Gates, Ellison, Jensen, Mateschitz |
+| `/founder-frameworks:think-focus` | Prioritization and saying no | Jobs, Gates, Jensen, Musk |
+| `/founder-frameworks:think-innovation` | R&D, prototyping, and iteration | Dyson, Musk, Bezos, Dell |
+| `/founder-frameworks:think-storytelling` | Brand narrative and content-as-marketing | Mateschitz, Jobs, Ellison |
+| `/founder-frameworks:think-scaling` | Growing without losing culture | Jensen, Gates, Dell, Bezos |
+| `/founder-frameworks:think-resilience` | Pushing through failure and setbacks | Dyson, Musk, Jobs, Dell |
+| `/founder-frameworks:think-customer` | Getting closer to customers | Dell, Bezos, Dyson, Jobs |
+| `/founder-frameworks:think-contrarian` | Going against consensus | Ellison, Bezos, Mateschitz, Dyson |
+| `/founder-frameworks:think-capital` | Financial strategy and capital efficiency | Dell, Gates, Mateschitz, Bezos |
 
 ### Navigator
 
 | Skill | What it does |
 |-------|-------------|
-| `/fnd:navigate` | Routes you to the right skill based on your challenge |
+| `/founder-frameworks:navigate` | Routes you to the right skill based on your challenge |
 
 ## Not sure which founder? Match your vibe
 
 | Your vibe | Try this |
 |-----------|---------|
-| "I need to simplify and focus" | `/fnd:lens-jobs` |
-| "I need to move faster" | `/fnd:lens-musk` |
-| "I need to outcompete someone" | `/fnd:lens-gates` |
-| "I need to think longer-term" | `/fnd:lens-bezos` |
-| "I need to push my team harder" | `/fnd:lens-jensen` |
-| "I want to go against the grain" | `/fnd:lens-ellison` |
-| "I need capital efficiency" | `/fnd:lens-dell` |
-| "I need to persevere through setbacks" | `/fnd:lens-dyson` |
-| "I need to build a brand/story" | `/fnd:lens-redbull` |
+| "I need to simplify and focus" | `/founder-frameworks:lens-jobs` |
+| "I need to move faster" | `/founder-frameworks:lens-musk` |
+| "I need to outcompete someone" | `/founder-frameworks:lens-gates` |
+| "I need to think longer-term" | `/founder-frameworks:lens-bezos` |
+| "I need to push my team harder" | `/founder-frameworks:lens-jensen` |
+| "I want to go against the grain" | `/founder-frameworks:lens-ellison` |
+| "I need capital efficiency" | `/founder-frameworks:lens-dell` |
+| "I need to persevere through setbacks" | `/founder-frameworks:lens-dyson` |
+| "I need to build a brand/story" | `/founder-frameworks:lens-redbull` |
 
 ## How it works
 

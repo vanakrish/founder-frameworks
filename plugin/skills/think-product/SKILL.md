@@ -1,5 +1,5 @@
 ---
-name: fnd:think-product
+name: think-product
 description: Make product decisions using wisdom from Jobs, Dyson, Musk, and Bezos
 argument-hint: "[your product decision or challenge]"
 ---
@@ -92,4 +92,4 @@ Deliver a product decision recommendation that includes:
 3. An honest assessment of what you are trading off
 4. One thing they should do THIS WEEK based on the recommendation
 
-**See Also:** /fnd:think-innovation, /fnd:think-customer, /fnd:lens-jobs, /fnd:lens-dyson
+**See Also:** /founder-frameworks:think-innovation, /founder-frameworks:think-customer, /founder-frameworks:lens-jobs, /founder-frameworks:lens-dyson

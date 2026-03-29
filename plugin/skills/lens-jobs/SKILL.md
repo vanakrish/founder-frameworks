@@ -1,5 +1,5 @@
 ---
-name: fnd:lens-jobs
+name: lens-jobs
 description: Think through any problem the way Steve Jobs would
 argument-hint: "[describe your situation or decision]"
 ---

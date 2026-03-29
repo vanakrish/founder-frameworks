@@ -1,5 +1,5 @@
 ---
-name: fnd:lens-gates
+name: lens-gates
 description: Think through any problem the way Bill Gates would
 argument-hint: "[describe your situation or decision]"
 ---

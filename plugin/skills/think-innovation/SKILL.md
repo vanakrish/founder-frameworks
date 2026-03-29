@@ -1,5 +1,5 @@
 ---
-name: fnd:think-innovation
+name: think-innovation
 description: Approach R&D and innovation using frameworks from Dyson, Musk, Bezos, and Dell
 argument-hint: "[your innovation challenge or R&D question]"
 ---
@@ -69,7 +69,7 @@ Innovation is painful. Dyson: "Excellence is the capacity to take pain." Musk: "
 
 ## See Also
 
-- /fnd:think-product
-- /fnd:think-resilience
-- /fnd:lens-dyson
-- /fnd:lens-musk
+- /founder-frameworks:think-product
+- /founder-frameworks:think-resilience
+- /founder-frameworks:lens-dyson
+- /founder-frameworks:lens-musk

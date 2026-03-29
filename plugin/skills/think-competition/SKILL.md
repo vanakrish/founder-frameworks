@@ -1,5 +1,5 @@
 ---
-name: fnd:think-competition
+name: think-competition
 description: Develop competitive strategy using wisdom from Gates, Ellison, Jensen, and Mateschitz
 argument-hint: "[your competitive situation or rival you're facing]"
 ---
@@ -48,4 +48,4 @@ This skill helps with positioning against competitors, competitive moats, and ma
 4. Key question: Are you fighting for existing market share (Gates/Ellison) or creating a new market (Jensen/Mateschitz)?
 5. Output: Competitive strategy recommendation with specific tactics + founder quotes + honest assessment of risks
 
-**See Also:** /fnd:think-storytelling, /fnd:think-contrarian, /fnd:lens-gates, /fnd:lens-ellison
+**See Also:** /founder-frameworks:think-storytelling, /founder-frameworks:think-contrarian, /founder-frameworks:lens-gates, /founder-frameworks:lens-ellison

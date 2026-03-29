@@ -1,5 +1,5 @@
 ---
-name: fnd:think-resilience
+name: think-resilience
 description: Push through failure, pain, and rejection using wisdom from Dyson, Musk, Jobs, and Dell
 argument-hint: "[what you're struggling with or where you feel stuck]"
 ---
@@ -50,4 +50,4 @@ Covers perseverance, dealing with failure, pain tolerance, and bouncing back fro
 4. The uncomfortable truth: Every one of these founders paid an enormous personal price. Musk: "Any relationship was very difficult to maintain." Gates: "I didn't believe in weekends or vacations." Jobs: "We were pretty frantic and demanding." The question is whether you're willing to pay it.
 5. Output: Encouragement grounded in real stories + honest assessment of the cost + specific quotes as mantras + practical next step
 
-**See Also:** /fnd:think-focus, /fnd:think-innovation, /fnd:lens-dyson, /fnd:lens-musk
+**See Also:** /founder-frameworks:think-focus, /founder-frameworks:think-innovation, /founder-frameworks:lens-dyson, /founder-frameworks:lens-musk

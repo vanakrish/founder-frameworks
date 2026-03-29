@@ -1,5 +1,5 @@
 ---
-name: fnd:think-scaling
+name: think-scaling
 description: Scale your organization without losing culture using wisdom from Jensen, Gates, Dell, and Bezos
 argument-hint: "[your scaling challenge or org design question]"
 ---
@@ -50,4 +50,4 @@ Covers org design, scaling culture, growing without bureaucracy, and maintaining
 4. Key tension: Jensen stays in the details with 60 reports. Gates scales through elite small teams. Dell scales through business model efficiency. Bezos scales through systems and documents.
 5. Output: Scaling strategy with org design recommendations, culture preservation tactics, and specific founder quotes
 
-**See Also:** /fnd:think-hiring, /fnd:think-focus, /fnd:lens-jensen, /fnd:lens-bezos
+**See Also:** /founder-frameworks:think-hiring, /founder-frameworks:think-focus, /founder-frameworks:lens-jensen, /founder-frameworks:lens-bezos

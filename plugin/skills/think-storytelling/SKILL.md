@@ -1,5 +1,5 @@
 ---
-name: fnd:think-storytelling
+name: think-storytelling
 description: Build brand narrative and storytelling using wisdom from Mateschitz, Jobs, and Ellison
 argument-hint: "[your brand, product, or narrative challenge]"
 ---
@@ -41,4 +41,4 @@ Covers storytelling, brand building, positioning narrative, and content-as-marke
 4. Universal truth: Authentic belief beats manufactured messaging every time
 5. Output: Narrative strategy with positioning statement, philosophy articulation, content approach, and specific founder quotes
 
-**See Also:** /fnd:think-competition, /fnd:think-product, /fnd:lens-redbull, /fnd:lens-jobs
+**See Also:** /founder-frameworks:think-competition, /founder-frameworks:think-product, /founder-frameworks:lens-redbull, /founder-frameworks:lens-jobs

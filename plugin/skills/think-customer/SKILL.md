@@ -1,5 +1,5 @@
 ---
-name: fnd:think-customer
+name: think-customer
 description: Get closer to customers using wisdom from Dell, Bezos, Dyson, and Jobs
 argument-hint: "[your customer insight or feedback challenge]"
 ---
@@ -55,5 +55,5 @@ Given the user's input: $ARGUMENTS
 5. **Output**: Customer closeness strategy with specific feedback loop design + founder quotes + honest tradeoffs
 
 ## See Also
-- /fnd:think-product
-- /fnd:think-innovation
+- /founder-frameworks:think-product
+- /founder-frameworks:think-innovation

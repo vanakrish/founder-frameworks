@@ -1,5 +1,5 @@
 ---
-name: fnd:lens-bezos
+name: lens-bezos
 description: Think through any problem the way Jeff Bezos would
 argument-hint: "[describe your situation or decision]"
 ---

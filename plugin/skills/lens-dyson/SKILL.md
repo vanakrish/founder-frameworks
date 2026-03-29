@@ -1,5 +1,5 @@
 ---
-name: fnd:lens-dyson
+name: lens-dyson
 description: Think through any problem the way James Dyson would
 argument-hint: "[describe your situation or decision]"
 ---

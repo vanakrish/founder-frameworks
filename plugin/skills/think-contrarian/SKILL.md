@@ -1,5 +1,5 @@
 ---
-name: fnd:think-contrarian
+name: think-contrarian
 description: Go against consensus using wisdom from Ellison, Bezos, Mateschitz, and Dyson
 argument-hint: "[your unconventional bet or contrarian thesis]"
 ---
@@ -61,5 +61,5 @@ Given the user's input: $ARGUMENTS
 - "Not having a clear thesis for WHY consensus is wrong"
 
 ## See Also
-- /fnd:think-decisions
-- /fnd:think-competition
+- /founder-frameworks:think-decisions
+- /founder-frameworks:think-competition

@@ -1,5 +1,5 @@
 ---
-name: fnd:think-decisions
+name: think-decisions
 description: Make high-stakes decisions using frameworks from Bezos, Musk, Ellison, and Gates
 argument-hint: "[your decision or dilemma]"
 ---
@@ -52,4 +52,4 @@ This skill helps when facing a major decision under uncertainty — launches, pi
 
 **Key insight:** Bezos and Musk both favor action over analysis, but for different reasons. Bezos because opportunity decays. Musk because speed compounds. Ellison because commitment creates clarity. Gates because analysis without action is wasted.
 
-**See Also:** /fnd:think-contrarian, /fnd:think-focus, /fnd:lens-bezos, /fnd:lens-musk
+**See Also:** /founder-frameworks:think-contrarian, /founder-frameworks:think-focus, /founder-frameworks:lens-bezos, /founder-frameworks:lens-musk

@@ -1,5 +1,5 @@
 ---
-name: fnd:think-hiring
+name: think-hiring
 description: Build teams using hiring wisdom from Jobs, Gates, Jensen, Dell, and Dyson
 argument-hint: "[your hiring decision, team challenge, or org question]"
 ---
@@ -109,4 +109,4 @@ Deliver a hiring/team recommendation that includes:
 5. An honest assessment of the tradeoffs in their chosen approach
 6. One concrete action they should take THIS WEEK
 
-**See Also:** /fnd:think-scaling, /fnd:think-focus, /fnd:lens-jensen, /fnd:lens-jobs
+**See Also:** /founder-frameworks:think-scaling, /founder-frameworks:think-focus, /founder-frameworks:lens-jensen, /founder-frameworks:lens-jobs
